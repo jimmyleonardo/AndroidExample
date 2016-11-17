@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_account_balance_wallet_white_24dp"
+        android:title="@string/text_home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_payment"
+        android:enabled="true"
+        android:icon="@drawable/ic_credit_card_white_24dp"
+        android:title="@string/text_payment"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_deals"
+        android:enabled="true"
+        android:icon="@drawable/ic_redeem_white_24dp"
+        android:title="@string/text_deals"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_history"
+        android:enabled="true"
+        android:icon="@drawable/ic_history_white_24dp"
+        android:title="@string/text_history"
+        app:showAsAction="ifRoom" />
+</menu>
