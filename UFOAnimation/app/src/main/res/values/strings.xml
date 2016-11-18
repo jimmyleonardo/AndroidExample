@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UFO Animation</string>
+    <string name="title_no_animation">No animation</string>
+    <string name="title_launch_ufo">Launch a UFO</string>
+    <string name="title_spin_ufo">Spin a UFO</string>
+    <string name="title_accelerate_ufo">Accelerate a UFO</string>
+    <string name="title_launch_ufo_objectanimator">Launch a UFO (ObjectAnimator)</string>
+    <string name="launch_spin">Launch and spin (AnimatorSet)</string>
+    <string name="launch_spin_viewpropertyanimator">Launch and spin (ViewPropertyAnimator)</string>
+    <string name="title_with_alien">Don\'t leave Alien behind (Animating two objects)</string>
+    <string name="title_animation_events">Animation events</string>
+    <string name="title_there_and_back">Fly there and back (Animation options)</string>
+    <string name="title_jump_and_blink">Jump and blink (Animations in XML)</string>
+    <string name="title_color_animation">Background color</string>
+    <string name="touch_the_alien">Touch the Alien</string>
+</resources>
